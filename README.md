@@ -1,6 +1,10 @@
 
 # 🖌️ Air Drawing Canvas Using Computer Vision
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Ops-orange?logo=numpy)
+
 An interactive, touchless drawing application built with Python and OpenCV that lets users draw on a virtual canvas using a colored object as a pen—no physical contact required.
 
 ## 🚀 Overview
